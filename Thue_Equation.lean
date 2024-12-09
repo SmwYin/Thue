@@ -1,6 +1,5 @@
 import Mathlib
 open BigOperators
-set_option maxHeartbeats 10000000
 
 -- Xiangmiao (Samuel) Yin
 
