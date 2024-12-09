@@ -14,6 +14,7 @@ structure R where
   x : ℤ
   y : ℤ
   z : ℤ
+
 @[simp]
 def α : R := ⟨0,1,0⟩
 
@@ -2218,5 +2219,3 @@ by
     constructor
     · exact hx
     · exact hy
-
-#show_unused Thue
